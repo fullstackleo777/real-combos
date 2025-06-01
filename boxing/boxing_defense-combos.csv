@@ -1,0 +1,11 @@
+Defense Name,Movement,Description,Difficulty,Best Against,Counter Opportunity
+Slip (Inside),Slip,Move head slightly to the inside (toward rear hand) to avoid straight punches.,Beginner,"Jab, Cross","Cross, Hook"
+Slip (Outside),Slip,Move head to the outside (toward lead hand) to avoid straight punches.,Beginner,"Jab, Cross","Cross, Uppercut"
+Duck,Duck,Bend knees and lower body under a hook or wide punch.,Beginner,Hooks,"Body Hook, Uppercut"
+Bob and Weave,Weave,Combine slip and duck in a 'U' motion under a hook.,Intermediate,"Hooks, Overhands","Body Hook, Cross"
+Parry,Parry,Redirect opponent's punch using a small push with your glove.,Beginner,Straight punches,"Cross, Jab"
+Block,Block,"Absorb punch with gloves or arms, keeping guard tight.",Beginner,All punches,"Hook, Uppercut"
+Shoulder Roll,Roll,"Rotate shoulder to deflect punches, often paired with a counter.",Advanced,"Cross, Hook","Counter Right, Uppercut"
+Step Back,Footwork,Step backward to evade a punch while maintaining balance.,Intermediate,All punches,"Cross, Jab"
+Pivot,Footwork,Rotate around lead foot to change angle and avoid punches.,Intermediate,Forward pressure,"Hook, Uppercut"
+Clinching,Clinch,Tie up opponent’s arms at close range to stop attacks.,Intermediate,Inside pressure,Break and hit (ref break)
