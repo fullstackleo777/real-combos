@@ -1,0 +1,38 @@
+Category,Move
+Striking,Jab
+Striking,Cross
+Striking,Lead Hook
+Striking,Rear Hook
+Striking,Lead Uppercut
+Striking,Rear Uppercut
+Striking,Body Jab
+Striking,Body Cross
+Striking,Leg Kick
+Striking,Head Kick
+Striking,Body Kick
+Striking,Overhand
+Striking,Superman Punch
+Striking,Spinning Backfist
+Clinch,Initiate Clinch
+Clinch,Transition Position
+Clinch,Strike in Clinch
+Clinch,Body Knee
+Clinch,Elbow
+Takedown,Single Leg Takedown
+Takedown,Double Leg Takedown
+Takedown,Power Takedown
+Takedown,Takedown Deny
+Defense,Block Head
+Defense,Block Body
+Defense,Head Movement
+Defense,Clinch Deny
+Ground Game,Transition
+Ground Game,Posture Up
+Ground Game,Ground and Pound
+Ground Game,Submission
+Ground Game,Get Up
+Submission,Initiate Submission
+Submission,Types
+Advanced Combo,1-2-Head Kick
+Advanced Combo,Lead Hook → Rear Uppercut
+Advanced Combo,Body Jab → Body Cross → Leg Kick
