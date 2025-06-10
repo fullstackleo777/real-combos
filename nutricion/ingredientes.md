@@ -33,3 +33,5 @@
 | Bebidas   | Té                 | —                                         | Hidratante y antioxidante según tipo (verde, negro, etc.)  |
 | Bebidas   | Leche              | —                                         | Rica en calcio, proteína y vitamina D                      |
 | Bebidas   | Licuado            | —                                         | Energía rápida post-entreno si contiene fruta y leche      |
+
+___

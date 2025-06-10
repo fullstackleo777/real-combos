@@ -9,3 +9,5 @@
 | **5** | Licuado de avena, leche, miel de agave y manzana | Carne de res guisada con lentejas y zanahoria                                                          | Sopa de garbanzo + ensalada con limón y cilantro                | Naranja + huevo duro     |
 | **6** | Huevos revueltos con cebolla y tomate + plátano  | Chícharos con pollo y ajo + arroz integral                                                             | Tripas doradas con ensalada de cebolla, tomate y chile serrano  | Café con leche + manzana |
 | **7** | Avena cocida en leche con rodajas de plátano     | Garbanzos guisados con borrego + cilantro + cebolla                                                    | Ensalada tibia de lentejas, tomate y huevo                      | Té con limón + plátano   |
+
+___
